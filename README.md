@@ -1,12 +1,14 @@
 OVERVIEW:
 
-- Basic chatt app with Websocket that establishes a WebSocket connection to a server using the Socket.IO library. For Laptop screen
+- Full Stack Basic chatt app with Websocket that establishes a WebSocket connection to a server using the Socket.IO library. For Laptop screen
 
 
 Features:
 - Socket.io libarary
 - Nodejs
 - Expressjs
+- Reactjs
+- State mamnagement
 - environment variables
 -cors module
 --  sets up an event listener on the Socket.IO server to handle new client connections
