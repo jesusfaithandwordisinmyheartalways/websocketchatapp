@@ -28,7 +28,7 @@ Screenshots:
 LINKEDIN VIDEO:
 
 
-
+https://www.linkedin.com/feed/update/urn:li:activity:7278737121689919488/
 
 
 
